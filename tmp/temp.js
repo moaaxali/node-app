@@ -1,0 +1,1 @@
+console.log('I\'m a temporary file to be deleted by the node fs');
